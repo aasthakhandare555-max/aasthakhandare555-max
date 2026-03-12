@@ -16,4 +16,4 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Excel | Power BI
 Machine Learning and Advanced power BI
 
 ## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn:https://www.linkedin.com/in/aastha-khandare-76141b295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
